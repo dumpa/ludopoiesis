@@ -1,485 +1,554 @@
 [
   {
     "id": "N01",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Naturaleza",
     "texto": "Natural es lo que entiendo,\no tal vez a lo que le tengo una teoría, una explicación.\nUsamos la distinción natural-artifi cial \npara distinguir lo que creció de lo que hacemos.\nLo que pasa sin intervención de nosotros\ny lo que pasa por acción nuestra.\nMuchas veces la usamos \nporque nos sentimos externos a lo natural.\nO creadores de lo artifi cial.\nLo que hacemos es natural, \nnaturaleza es el universo.\nAquello con lo que convivimos. Donde vivimos.\nNaturaleza es ver el mundo con la actitud\nque el universo crece, que las cosas pasan,\nque no hay un yo que crea y un escenario donde creo.\nMás bien, soy parte del todo.\nNaturaleza es entender que soy parte del escenario \ny que mis creaciones vienen\nde las dinámicas de este escenario.\nLo artifi cial es natural \ncuando entiendo que yo soy natural.\nTodo es natural.\nNaturaleza",
-    "imagen": "img/N01.png"
+    "imagen": "img/N01.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N02",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "F Í S I C A",
     "texto": "Eres el mundo\n¿Te vas a defi nir como una víctima del mundo \no como el mundo?\nTú eres lo que haces.\nTú eres lo que te pasa.\nTú eres responsable.\nLa diferencia entre lo que nos pasa \ny lo que hacemos es un poco de ego.\nNosotros brillamos el sol.\nNosotros palpitamos nuestro corazón.\nHacemos amanecer.\nAcepta que eres el mundo.\nSé responsable de lo que te pasa.",
-    "imagen": "img/N02.png"
+    "imagen": "img/N02.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N03",
-    "categoria": "Naturaleza",
-    "titulo": "Las montañas",
-    "texto": "son montañas\nEn un comienzo las montañas son montañas.\nSi me pongo curioso, \nlas montañas comienzan\na ser una complejidad de relaciones.\nDejan de ser simplemente montañas.\nEmpiezo a estudiarlas, \na partirlas en pedazos,\na caracterizarlas, \na parametrizarlas \ny categorizarlas. \nBusco causas y efectos.\nYo sé que entiendo la montaña \ncuando deja de ser un montón de cosas \ny vuelve a ser montaña.\nLas montañas son montañas.",
-    "imagen": "img/N03.png"
+    "categoria": "Física",
+    "titulo": "Las montañas son montañas",
+    "texto": "En un comienzo las montañas son montañas.\nSi me pongo curioso, \nlas montañas comienzan\na ser una complejidad de relaciones.\nDejan de ser simplemente montañas.\nEmpiezo a estudiarlas, \na partirlas en pedazos,\na caracterizarlas, \na parametrizarlas \ny categorizarlas. \nBusco causas y efectos.\nYo sé que entiendo la montaña \ncuando deja de ser un montón de cosas \ny vuelve a ser montaña.\nLas montañas son montañas.",
+    "imagen": "img/N03.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N04",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Olas",
     "texto": "Las cosas de la vida llegan por olas.\nLo que acaba vuelve.\nLo que empieza termina.\nLo que termina empieza de nuevo.\nSiempre va a estar ahí.\nMorir y nacer son la misma cosa,\nparte de la misma ola.\nEs una cresta que no existe sin un valle.",
-    "imagen": "img/N04.png"
+    "imagen": "img/N04.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N05",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Massimo",
     "texto": "y los extraterrestres\nMassimo se comunicó con los extraterrestres. \nEllos dejaron tres mensajes:\n Existe lo que existe.\n Nada es nada.\n La vida es cara.",
-    "imagen": "img/N05.png"
+    "imagen": "img/N05.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N06",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "¿Quién soy?",
     "texto": "Depende de a quién le pregunte.\nPara cada persona soy alguien diferente.\nCada uno en su realidad.\nSoy una superposición de lo que cargo, \nde lo que hago, \nde lo que impacto, \nde mis amigos,\nde lo que digo, pienso y siento, \nde lo que percibo, \nde mi alimento, \nde donde vivo.\nSoy onda y partícula.\nSoy universo, soy creador.",
-    "imagen": "img/N06.png"
+    "imagen": "img/N06.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N07",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Sorprendidos",
     "texto": "Así cómo vendrá un instante \ncon infi nito cambios de paradigma, \nuna singularidad,\nvendrán sorpresas cada vez más frecuentes, \nhasta el punto de tener infi nito sorpresas\nen un instante.\nO sorpresas en cada instante.\nQuedaremos anonadados, \nsorprendidos.\n¿Cómo será un mundo donde todos\nestemos sorprendidos cada instante?\nTendremos que escondernos,\ndesconectarnos para vivir.\nY cuando queramos sorpresas nos conectaremos.",
-    "imagen": "img/N07.png"
+    "imagen": "img/N07.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N08",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "El sonido no muere",
     "texto": "El sonido nunca muere. \nHoy tenemos personas buscando reproducir \nlos sonidos del pasado. \n¿Cómo suena un dinosaurio?\n¿Cómo sonó ese grito de independencia? \n¿Qué está diciendo ese presidente en esa ofi cina?\nLas ondas se propagan y dejan rastro. \nY podemos devolver el tiempo y reconstruir el pasado. \nEscuchar como era antes. \nY mientras contemplo esta posibilidad, \nme imagino que así como reproduzco \nla declaración de amor de mis abuelos, \npodré tal vez hacer lo mismo con los átomos. \n¿Será que puedo reproducir el alma? \n¿Hay alma? ¿Tengo libre voluntad? \nO estoy enmarcado dentro de unas leyes \nque ya han determinado mi destino. \n¿Estará en mi destino revivir?\nNo importa si ya lo escribieron. \nHasta que yo no lo lea existirán infi nitas posibilidades.",
-    "imagen": "img/N08.png"
+    "imagen": "img/N08.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N09",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Ver la fl or",
     "texto": "Si no paras a ver la fl or, \nno ves la araña, \nla telaraña con su rocío, \ny la magia de los pequeños detalles.",
-    "imagen": "img/N09.png"
+    "imagen": "img/N09.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N10",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Fricción",
     "texto": "La fricción es una fuerza que se opone al \nmovimiento. Aparece antes de que me empiece \na mover para evitar que yo arranque. \nTambién cuando me muevo desacelerando. \nUn cuerpo se va a quedar quieto o a mantener su \nestado (velocidad constante) en ausencia de fuerzas. \nEl problema es que la fricción siempre está. \nEn el día a día vivimos esta fuerza todo el tiempo. \nDesde que nos tenemos que levantar de la cama, \ndesplazarnos al trabajo, o arrancar un proyecto. \nLa entendemos moviéndonos, \narrancando, con motivación.\nHay una fuerza que no nos deja arrancar, \ny hay otra fuerza que nos frena. \nNosotros tenemos que tener la fuerza \npara contrarrestarlas y seguir adelante.",
-    "imagen": "img/N10.png"
+    "imagen": "img/N10.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N11",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Controlar el humo",
     "texto": "Que no se te olvide que puedes controlar el humo.\nA veces es echar más leña \no una sopladita.\nPor lo general,\nmás llama es menos humo.",
-    "imagen": "img/N11.png"
+    "imagen": "img/N11.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N12",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Distinción:",
     "texto": "Fuerza - Poder\nEl poder es el fi n, la fuerza es el comienzo. Poder\nes algo que ganamos. Fuerza genera movimiento.\nEl poder está relacionado con los títulos, posesiones\no propiedades que adquirimos al fi nalizar un juego.\nMientras que la fuerza se relaciona con \nhabilidades y herramientas, es lo que nos\npermite arrancar procesos. En este sentido la\nfuerza es infi nita ya que es un acto de apertura.\nY el poder es algo fi nito que solo existe cuando\nse acaba el juego, es un acto de clausura.\nEl poder está relacionado con lo que puedo hacer\ndentro de unos límites; \nla fuerza con lo que puedo hacer con los límites.\nEl poder tiene que ver con lo que ya pasó.\nFuerza con lo que va a pasar.\nSi quiero acabar, juego para ser poderoso.\nSi prefi ero seguir jugando, debo jugar con fuerza.\nEs preferible fortalecer que empoderar.\nQueremos mover, iniciar, generar cambio, \njugar juegos infi nitos.\nLas fuerzas comienzan, el poder acaba.",
-    "imagen": "img/N12.png"
+    "imagen": "img/N12.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N13",
-    "categoria": "Naturaleza",
-    "titulo": "Pozo de agua helada",
-    "texto": "Un pozo de agua helada es un llamado a la aventura.\nSaltar en él es salir de la zona de confort.\nEs entrar en el mundo de la aventura.\nEn un comienzo paraliza, \nluego todo empieza a circular.\nAparecen sensaciones, cosquillas y algo de calor.\nDifi cultad para moverse, y para hablar.\nAl salir he cambiado, superado un desafío,\ny mi cuerpo ahora es más fuerte.\nAhora soy otro, maestro de ambos mundos.\nVolver a saltar ahora es fácil.",
-    "imagen": "img/N13.png"
+    "categoria": "Física",
+    "titulo": "Pozo de",
+    "texto": "agua helada\nUn pozo de agua helada es un llamado a la aventura.\nSaltar en él es salir de la zona de confort.\nEs entrar en el mundo de la aventura.\nEn un comienzo paraliza, \nluego todo empieza a circular.\nAparecen sensaciones, cosquillas y algo de calor.\nDifi cultad para moverse, y para hablar.\nAl salir he cambiado, superado un desafío,\ny mi cuerpo ahora es más fuerte.\nAhora soy otro, maestro de ambos mundos.\nVolver a saltar ahora es fácil.",
+    "imagen": "img/N13.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N14",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Somos ciudad",
     "texto": "Hablamos de la ciudad \ncomo si no fuéramos parte de ella.\nSi yo digo que Bogotá está una mierda, \nyo estoy una mierda.\nSomos ciudad, \nno nos insultemos.\nLa palabra es poderosa.\nUna ciudad incluye a sus habitantes, \nperros, gatos, plantas, árboles, \nhongos, bacterias, humanos de infi nitos géneros,\naves, ratas, ranas, moscos, edifi cios, casas, \npuentes, postes, luces, semáforos,\npeces, ríos, centros comerciales, calles.\nY te incluye a ti, seas turista o residente. \nY eso te hace ciudad.\nTú eres la ciudad en la que te encuentras.\nSé la que quieres ser.\nNo hables mal de tu ciudad, de ti, de tus hermanos.\nLa palabra es poderosa.",
-    "imagen": "img/N14.png"
+    "imagen": "img/N14.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N15",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Física para crear",
     "texto": "Cuatro principios para entender\nque tú eres el creador:\n1. Es solo hasta que observas el sistema que\neste toma un estado. Antes de observar existe la\nposibilidad, que además se expande con el tiempo,\ny es en el momento de la observación que la\nposibilidad colapsa (Ecuación de Schrodringer).\n2. Yo observo una cosa y tú observas otra.\nDependiendo de nuestro estado vamos a observar\ndiferentes fenómenos (Teoría de la Relatividad).\n3. Es imposible conocer el estado exacto de algo.\nSiempre habrá una incertidumbre. Si yo trato de ver\nla posición, no puedo saber cuál es la velocidad, y\nviceversa (Principio de incertidumbre de Heisenberg).\n4. Yo soy parte del sistema. \nEs imposible observar un sistema sin intervenir. \nTodo intento de observación afecta el sistema.\nEl observador es el que crea. \nTú eres el observador. Ten cuidado cómo observas.",
-    "imagen": "img/N15.png"
+    "imagen": "img/N15.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N16",
-    "categoria": "Naturaleza",
+    "categoria": "Física",
     "titulo": "Los gatos se teleportan",
     "texto": "No tiene sentido tratar de contener un gato.\nLos gatos se teleportan.\nAlgo que uno puede hacer \nes enseñarle el camino \nde retorno a casa.\nDar cariño y comida.",
-    "imagen": "img/N16.png"
+    "imagen": "img/N16.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N17",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Fuerzas",
     "texto": "Hay fuerzas que atraen.\nHay fuerzas que repelen.\nLas fuerzas que atraen actúan \nen distancias más largas.\nLas fuerzas que repelen actúan \nen distancias más cortas.\nO por lo menos eso vemos.\nNos acercamos a las cosas, pero no tanto.\nNunca nos tocamos.\nAunque sí creamos relaciones.\nPasar cerca cambia mi trayectoria.\nPuede que empecemos a orbitar juntos.\nAndar juntos por un rato.\nLa curiosidad atrae.\nLa indiferencia repele.",
-    "imagen": "img/N17.png"
+    "imagen": "img/N17.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N18",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Código",
     "texto": "Antes eramos engranajes, \ny antes de eso, humores.\nEn algunos lados somos elementos.\nEn otros energías. \nY en otros computadores.\nEl que controla el código, \ncontrola la vida.",
-    "imagen": "img/N18.png"
+    "imagen": "img/N18.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N19",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "C O N E C TA R",
     "texto": "Conecta Bonito\nEntre más conexiones tengas \nes más probable que hagas una nueva conexión.\nUn proceso como tal genera distribuciones\ncon colas largas y leyes de potencia.\nAlgo como, muchas personas con 10 conexiones,\n10 veces menos personas con 20 conexiones,\n100 veces menos personas con 30 conexiones,\n1000 veces menos con 40,\nAsí sucesivamente.\nMuchos con pocas, pocos con muchas.\nCada uno de nosotros se encuentra en algún lugar de\nesta ley. Y podemos desplazarnos a través de ella.\nEs cuestión de que cada uno cree y abone\nsus conexiones. Entre más tengas, es más probable \nque hagas nuevas.\nDebemos tener en cuenta que no solo importa la\ncantidad, pues si me abundan malas conexiones\npuede que mi próxima conexión sea mala.\nNo necesito demasiadas.\nNecesito sufi cientes, bonitas y poderosas.\nConecta bonito y te llegarán cosas bonitas.",
-    "imagen": "img/N19.png"
+    "imagen": "img/N19.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N20",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Me escogieron",
     "texto": "A uno lo escogen por algo.\nImplica que de cierta manera soy responsable de ello.\nPara que me escojan tengo que llamar la atención. \nTengo que sobresalir.\nTengo que estar en el lugar indicado \nen el momento indicado. \nConectado.\nSe debe comunicar bien el mensaje \ny debe ser el mensaje indicado.\nQue me escojan tiene mérito.",
-    "imagen": "img/N20.png"
+    "imagen": "img/N20.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N21",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "¿Quién cuenta?",
     "texto": "¡Que no nos cuenten la historia \nque tenemos que contar! \nSi no somos nosotras \nlas que contamos la historia, \nalguien más la va a contar. \nQuien cuenta tiene poder.",
-    "imagen": "img/N21.png"
+    "imagen": "img/N21.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N22",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Los que escuchan",
     "texto": "Es más fácil conectar con los que escuchan.\nY que ellos repliquen el mensaje.\nNo todo el mundo va a escuchar.\nNo todo el mundo va a entender.\nConecta con quien está dispuesto.\nToca a quien quiere ser tocado.\nDe uno en uno hacemos uno más grande.",
-    "imagen": "img/N22.png"
+    "imagen": "img/N22.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N23",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Mensaje",
     "texto": "Para que un mensaje llegue \nprimero hay que desarrollar confi anza \nen uno mismo.\nPara esto hay que creer, entender, \ny tener el mensaje claro. \nLuego viene la persistencia.\nEn un principio cada uno habla un idioma diferente, \nentiende, piensa, \nhace y se relaciona diferente.\nSi eres constante en tu mensaje,\ncrees en él,\ny tienes confi anza en ti,\nconectas.\nAl conectar, el mensaje se propaga, \nse multiplica, se reproduce. \nAl conectar, la confi anza se propaga, \nse multiplica, se reproduce. \nAl conectar, crecemos, nos \nfortalecemos y multiplicamos.",
-    "imagen": "img/N23.png"
+    "imagen": "img/N23.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N24",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Persuadir",
     "texto": "Solo hay una forma para que alguien haga \nlo que yo quiero, \ny es hacer que esa persona quiera hacerlo.\nEsto se puede hacer de buena o de mala manera.\nSi es de buena manera, \nlo más probable es que esa persona \ntambién actúe de buena manera.\nHaz que esa persona se sienta importante.\nApreciarla, contemplarla, admirarla, \ny hacer que esa persona se sienta bella, ayuda.",
-    "imagen": "img/N24.png"
+    "imagen": "img/N24.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N25",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "No patees la colmena",
     "texto": "Si quieres cosechar miel no patees la colmena.\nSi quieres un favor, no seas grosero. \nSi necesitas algo de alguien, sé amable.\nNuestras interacciones son negociaciones.\nSer amable ayuda a conseguir lo que queremos.\nTener el objetivo claro también.\nSi por el contrario somos agresivos, insultamos,\ndecimos las cosas con mala actitud, \nestamos alejándonos de lo que queremos.",
-    "imagen": "img/N25.png"
+    "imagen": "img/N25.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N26",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Mejor premiar que castigar",
     "texto": "Las recompensas negativas no enseñan. \nLas positivas son más efectivas. \nSi quieres entrenar a alguien es mejor premiar \nlo está haciendo bien \nque castigar por hacer algo mal.\nLas personas y las gatas tienen que estar motivadas, \ntienen que querer hacer, \ny hacer queriendo.\nSi quieres que alguien haga las cosas de una manera, \nmotívalo, muéstrale lo que hace bien, \ndile lo bien que hace, \ny si hay buena actitud, ha de pasar.\nEs mejor premiar que castigar.",
-    "imagen": "img/N26.png"
+    "imagen": "img/N26.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N27",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Interacciones",
     "texto": "Existimos mediante nuestras interacciones.\nSi no interactuamos seríamos una mente solitaria \ny sin sentido.\nAprendemos interactuando y así lo encontramos.\nUna venta no puede existir sin un comprador\ny un vendedor. \nIgual que un objeto no existe \nsi no hay una observación.\nNuestras interacciones defi nen lo que somos,\nson la base de nuestra existencia.\nSi ellas son puras, nosotros somos puros; \nsi son burdas, nosotros somos burdos, \nviolentas, violentos.\nUno es las conversaciones que uno tiene, \nes el alimento que consume, las amistades que tiene.\nCada uno es libre de interactuar como desee.\nYo escojo con quién interactuo \ny de qué manera lo hago.",
-    "imagen": "img/N27.png"
+    "imagen": "img/N27.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N28",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Compartir la mente",
     "texto": "Conectar es compartir la mente.\nAl interactuar me conecto \ny comparto un poco de mí, \nun poco de mi mente.\nY no son solo ideas, también emociones.\nSomos lo que pensamos.\nLo interesante es que no somos solo un cerebro, \nsomos mucho más. Somos mente.\nY esa mente está encarnada, tiene cuerpo, \ntiene sentidos, tiene sensaciones y emociones.\nPensamos con cerebro, \npensamos con cuerpo, \npensamos con emociones.\nConectar es compartir mi mente.",
-    "imagen": "img/N28.png"
+    "imagen": "img/N28.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N29",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Crear y compartir",
     "texto": "Uno no puede compartir lo que no tiene.\nSi no lo tienes adentro, no lo puedes sacar.\nPrimero hay que tenerlo y después compartirlo.\nEncontrarlo, construirlo, crear.\nPuede estar adentro y no sabemos.\nPuede no estar y lo creamos.\nPuedes también traerlo de afuera.\nAdentro y afuera es la misma cosa.\nSi lo crees lo creas, ahora compártelo.",
-    "imagen": "img/N29.png"
+    "imagen": "img/N29.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N30",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Ser poeta",
     "texto": "Es decir lo que no se puede decir.\nEs usar los sentidos.\nEs invocar.\nEs provocar y que cada uno interprete.\nEl pensamiento como palabras.\nLas palabras como herramientas.",
-    "imagen": "img/N30.png"
+    "imagen": "img/N30.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N31",
-    "categoria": "Naturaleza",
+    "categoria": "Ser",
     "titulo": "Que un mensaje llegue",
     "texto": "Para que un mensaje llegue y tenga efecto \ndebemos enfocarnos tanto en el canal \ncomo en su contenido.\nSi el canal no es el adecuado, \npuede que el mensaje llegue a un lugar \nen donde las condiciones no sean adecuadas \ny no tenga efecto.\nO simplemente no llegué.\nSi el mensaje no es claro y contundente,\nno va a tener un efecto.\nEl canal es importante.\nUn mensaje claro es importante.",
-    "imagen": "img/N31.png"
+    "imagen": "img/N31.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N32",
-    "categoria": "Naturaleza",
-    "titulo": "¿Puedo dar esto como un regalo?",
-    "texto": "Cuantificamos nuestras interacciones con dinero. \nCuando interactuo contigo, recibo o doy una \ncantidad de algo que en realidad no existe. \nY lo hacemos con personas jurídicas y naturales. \nNo con otros seres. El árbol no me cobra cuando \nyo tomo su fruta o el oxígeno que produce. \nCuando hago algo por ti, puedo ver esto de \ndos maneras: tener la actitud de dar un regalo \no de interactuar para obtener un dinero.\nEs de la naturaleza humana corresponder a \nlos regalos. Somos altruistas. Si doy, me van \na llegar regalos. Si recibo, voy a darlos.\nPor el otro lado, cuando vendo, estoy poniendo \nun valor a mi interacción para obtener algo que \nno existe y tener acceso a otras interacciones. \nSería bonito que usáramos menos el \ndinero y diéramos más regalos.\nAntes de comprar pregúntate: ¿cómo puedo \nobtener esto sin dinero? Antes de vender \npregúntate: ¿puedo dar esto como un regalo?",
-    "imagen": "img/N32.png"
+    "categoria": "Ser",
+    "titulo": "¿Puedo dar esto",
+    "texto": "como un regalo?\nCuantifi camos nuestras interacciones con dinero. \nCuando interactuo contigo, recibo o doy una \ncantidad de algo que en realidad no existe. \nY lo hacemos con personas jurídicas y naturales. \nNo con otros seres. El árbol no me cobra cuando \nyo tomo su fruta o el oxígeno que produce. \nCuando hago algo por ti, puedo ver esto de \ndos maneras: tener la actitud de dar un regalo \no de interactuar para obtener un dinero.\nEs de la naturaleza humana corresponder a \nlos regalos. Somos altruistas. Si doy, me van \na llegar regalos. Si recibo, voy a darlos.\nPor el otro lado, cuando vendo, estoy poniendo \nun valor a mi interacción para obtener algo que \nno existe y tener acceso a otras interacciones. \nSería bonito que usáramos menos el \ndinero y diéramos más regalos.\nAntes de comprar pregúntate: ¿cómo puedo \nobtener esto sin dinero? Antes de vender \npregúntate: ¿puedo dar esto como un regalo?",
+    "imagen": "img/N32.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N33",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Enlaces",
     "texto": "Cuando doy creo un enlace.\nEste enlace puede ser fuerte o débil\ndependiendo de mi intención al dar.\nHay diferentes formas de dar.\nNo es lo mismo regalar unos zapatos \nporque necesito espacio en el clóset \no porque sentimos compasión \ncon alguien que no tiene zapatos.\nEn el segundo caso el acto de dar \nnace del compartir, no de una necesidad.\nAcá el enlace es más fuerte.\nToda interacción crea un enlace.\nTodo enlace es conciencia.\nHaz que tus enlaces sean más fuertes.\nHaz que tu conciencia crezca.",
-    "imagen": "img/N33.png"
+    "imagen": "img/N33.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N34",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Respirar",
     "texto": "Respirar y vivir \nson actos voluntarios \ne involuntarios.\nSi eres consciente, \nlas controlas.\nSi no, \nellas pasan desapercibidas.",
-    "imagen": "img/N34.png"
+    "imagen": "img/N34.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N35",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Torre de babel",
     "texto": "El antropólogo escribe para el antropólogo.\nEl médico para el médico.\nEl ingeniero para el ingeniero.\nEl académico para el académico.\nY entre nosotros no hablamos.\nSuena a Torre de Babel.",
-    "imagen": "img/N35.png"
+    "imagen": "img/N35.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N36",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "S E R",
     "texto": "Vine a este mundo \no vine de este mundo\nPodemos ver nuestro papel frente al mundo \ncon la actitud de yo vine a este mundo \no yo vine de este mundo.\nLa primera tiene necesariamente otro mundo \nde donde vengo o que me crea. Y un creador. \nSiento un propósito más allá de este mundo.\nLa segunda mantiene el propósito y creador \ndentro de este mundo. \nEl creador es el mismo mundo, yo, o el resultado de él. \nSoy parte de él. Soy él.\nLa Navaja de Occam es un principio que dice \nque en igualdad de condiciones, la explicación \nmás sencilla suele ser la más probable.\n¿Será necesario venir a algo? ¿Será necesario \nsentirse en deuda con algo? ¿A qué vine? ¿Importa?\nYa estoy acá en un mundo. \nSi quiero lo puedo apropiar y decir mi mundo. \nIndependiente de mi origen, sería bueno cuidarlo, \nmejorarlo y agradecerle por ser mi hogar.",
-    "imagen": "img/N36.png"
+    "imagen": "img/N36.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N37",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Ver el mundo",
     "texto": "Cada mañana cuando te levantas de la cama \npuedes ver un mundo maravilloso \no un mundo terrible.\nDe la misma manera puedes cerrar los ojos \ny al abrirlos ver un mundo maravilloso, \no un mundo terrible.\nTú puedes transformar el mundo\nen cualquier instante \ny hay infi nitos instantes en un día.\nSi cerrar y abrir los ojos no te funciona,\nlos portales son una buena herramienta\npara transformar el mundo.\nEs tu decisión.\nTú escoges en qué mundo vives.",
-    "imagen": "img/N37.png"
+    "imagen": "img/N37.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N38",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Ser un bosque",
     "texto": "Entrar en un bosque es convertirse en bosque.\nEs ser el bosque.\nCuando entro al bosque él me incluye,\nsoy parte de él\ny me debería comportar como bosque.\n¿Qué hace un bosque?\n¿Cuál es el propósito de un bosque?\nSi quiero comportarme como bosque \ndebo aprender a ser bosque, \nescuchar y observarme como bosque.",
-    "imagen": "img/N38.png"
+    "imagen": "img/N38.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N39",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Juego de la mirada",
     "texto": "Ponte frente a alguien y mírense.\nAhora mírate en la otra persona.\nTú existes en esa mirada.\nTú existes en tu mirada.\nLa otra persona es tu construcción, \nes tu creación.\nNo somos independientes.\nExistimos porque hay miradas.\nExistimos porque hay otros.\nSolos no podemos existir.\nEs tu mirada la que crea a esa persona.\nTú existes en tu mirada.",
-    "imagen": "img/N39.png"
+    "imagen": "img/N39.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N40",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Yo no quiero",
     "texto": "ser el mejor en nada\nCompetir cambia el juego.\nSer el mejor equipo de fútbol del mundo \nes un juego totalmente diferente a jugar fútbol.\nUna cosa es jugar un partido; \notra un campeonato.\nOtra son los jugadores, lesiones, partidos,\ncampeonatos, patrocinadores, mercadeo, \ny lo que necesita un equipo para ser el mejor.\nSer el mejor es entrar en la competencia.\nDecidir no querer ser el mejor, es jugar otro juego.\nAlgunos nacen para competir, otros se enseñan.\nAlgunos simplemente no quieren competir \ncon los demás; tal vez sí, con ellos mismos.\nTodas son estrategias válidas.\nSer el mejor no es necesariamente\na lo que tenemos que jugar.\nYo debo jugar mi propio juego, \nentender bien a qué estoy jugando.\nSi se está haciendo con pasión, \ndando lo mejor de uno, \nno importa ser el mejor o no.",
-    "imagen": "img/N40.png"
+    "imagen": "img/N40.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N41",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "No te subestimes",
     "texto": "No te subestimes y no sobrestimes al resto del mundo.\nTodos tenemos debilidades. \nCuando miramos a nuestros ídolos \nvemos superhéroes, seres infalibles, \nmuy fuertes e inteligentes. \nEsto es porque ellos generalmente \nno muestran sus debilidades. \nVenden y comparten sus historias \npara mostrar su éxito.\nNosotros podemos hacer lo mismo. \nVernos como superhéroes. \nPonerle más atención a nuestros logros. \nEntender que todo el mundo tiene confl ictos, \ndebilidades y embarradas.",
-    "imagen": "img/N41.png"
+    "imagen": "img/N41.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N42",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Dónde estar",
     "texto": "Debo estar donde hay alimento.\nEn un lugar donde se me facilite \ntener conversaciones enriquecedoras, \nmantenerme curioso, \ne interesante.\nEn donde pueda estar en constante aprendizaje.\nEsto puede ser en Harvard,\nen un bosque, \no en el café de la esquina.\nPara ser exitoso no necesito una gran universidad. \nNecesito conectarme,\nmantenerme curioso e interesado.",
-    "imagen": "img/N42.png"
+    "imagen": "img/N42.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N43",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Unión",
     "texto": "La unión hace que yo exista, \nporque solo no puedo existir. \nYo te hago y tú me haces.\nTe reconozco.\nPara ver, alguien tiene que ser visto.\nPara tocar, alguien tiene que ser tocado.\nPara crear, alguien tiene que ser creado.\nUnión es formalizar mi existencia.\nYo existo para alguien y alguien existe para mí.\nLa unión crea un nuevo mundo, \nconecta fuerzas creadoras \ncon infi nitas posibilidades, \nda sentido.\nEs que el vacío no existe sin el lleno, \nel blanco sin el negro y el Happy sin el Lora.\nUnirse es inventar, es posibilidad, es oportunidad,\nes unir la fuerza, es complementarla.\nEs ceder un poco de control\na cambio de incertidumbre.\nY llenar la vida de asombro.\nCelebremos la unión.",
-    "imagen": "img/N43.png"
+    "imagen": "img/N43.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N44",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Escuchar",
     "texto": "Lo interesante es lo que no está escrito,\nes lo que no está en las instrucciones,\nlo que no está en el instrumento.\nExperimentamos con cuerpo y mente.\nY cada uno interpreta según su estado\ny su disposición.\nPara todos no es igual.\nCreamos la realidad con nuestras observaciones,\ny nuestras interpretaciones.\nHay que dar tiempo para escuchar,\ny dar tiempo para interpretar,\nprocesar y entender.\nSolo si nos abrimos \ny dejamos que nuestro cuerpo resuene, \nque la experiencia entre por todos los sentidos \ny que se procese, \nvamos a ver más allá.",
-    "imagen": "img/N44.png"
+    "imagen": "img/N44.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N45",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Al contar nos dividimos",
     "texto": "Al contar nos dividimos.\nAl contar perdemos la unidad.\nPasamos del uno al muchos.\nYa no somos uno, \nahora somos diferente.\nEmpezamos a ver detalles \ny dejamos de ver la esencia.\nNos alejamos.\nContemos menos, conectemos más.",
-    "imagen": "img/N45.png"
+    "imagen": "img/N45.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N46",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Silencio",
     "texto": "Silencio es oír más cosas, \nes ampliar los sentidos, \nes estar con uno mismo, \nmás sensible,\nmás conectado.",
-    "imagen": "img/N46.png"
+    "imagen": "img/N46.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N47",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Conversar",
     "texto": "En muchas de nuestras conversaciones\nhablamos sobre lo que yo quiero hablar.\nDirigimos la conversación \nhacia lo que a mí me interesa.\nEs bueno preguntarse al arrancar, \ny durante cada conversación:\n¿de qué quiere hablar la otra persona?\nY si no es obvio le podemos preguntar.\nSi cada uno habla solo de lo que le importa\nno vamos a llegar a ningún acuerdo.",
-    "imagen": "img/N47.png"
+    "imagen": "img/N47.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N48",
-    "categoria": "Naturaleza",
+    "categoria": "Conectar",
     "titulo": "Aumentar inteligencia",
     "texto": "La inteligencia de una persona aumenta\ncuando le das confi anza, \nlibertad \ny responsabilidades.\nAplica para ti \ny aplica para tu equipo de trabajo.",
-    "imagen": "img/N48.png"
+    "imagen": "img/N48.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N49",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Conectarse",
     "texto": "Conectarse es una necesidad.\nMe conecto con personas, organizaciones,\nsistemas y objetos que son parte de mi vida.\nAlgunos tienen intereses similares.\nOtros me ayudan en mi propósito.\nConectarse es interactuar.\nMi computador y mi teléfono \nahora son parte de mí \ny me obligan a interactuar con el sistema eléctrico \ny con la Internet.\nHoy necesito recargar mis baterías, un cable y wifi \npara conectarme con la Internet y así interactuar.\nDebo encontrar estos recursos, \npues ellos me ayudan con mi propósito.\nCon las personas me conecto \na través de las emociones y los sentidos.\nHacerlo bien es un arte.\nSe necesita el cable adecuado,\nla historia, el lenguaje,\ny estar en el lugar y momento indicado.",
-    "imagen": "img/N49.png"
+    "imagen": "img/N49.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N50",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Amigo",
     "texto": "Que todo el mundo sea tu amigo\nes una gran estrategia. \nUn amigo te ayuda,\nte entiende, te escucha,\nes altruista.\nLos enemigos generan odio, rabia, frustración,\nenvidia, miedo, desconfi anza \ny llevan muchas veces a la violencia, \ndestrucción, guerras y batallas.\nEntre enemigo y amigo hay otras posibilidades,\nen las que muchas veces hay indiferencia \ny relaciones incómodas, \ndonde uno de los dos usa al otro.\nYo puedo ser amigo de la rata, la culebra, la piraña.\nTengo que entenderlos,\ndesarrollar la compasión y conectar.\nEntender que somos uno.\nAmbos participamos de un mismo sistema.\nEntre amigos es gana-gana.",
-    "imagen": "img/N50.png"
+    "imagen": "img/N50.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N51",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Los peces mueven el agua",
     "texto": "En un principio la luna y el planeta movían el agua.\nEse movimiento creó seres unicelulares,\nque a su vez movieron el agua.\nDe este movimiento salieron seres multicelulares, \ny luego pescados.\nAhora los peces mueven el agua.\nEl movimiento es energía.\nEl movimiento es vida.\nNo dejemos que el agua se estanque.\nNo la represemos.\nEl agua debe fl uir.",
-    "imagen": "img/N51.png"
+    "imagen": "img/N51.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N52",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Creer que el mundo",
     "texto": "puede ser mejor\nPara hacer un cambio \nhay que creer \nque el mundo puede ser mejor.\nCuando perdemos la esperanza\nes que nos estancamos.\nEl mundo puede ser mejor: \nhagamos el mundo mejor.",
-    "imagen": "img/N52.png"
+    "imagen": "img/N52.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N53",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "T I E M P O",
     "texto": "Los instantes\nValoramos nuestros días, horas y minutos.\nLos instantes ni los miramos.\nTenemos 24 horas\no 1440 minutos en un día.\n365 días en un año.\nEstán contados, pasan, se agotan.\nCada minuto vale, porque pronto ya no está.\nEn cambio, los instantes siempre están.\nSon infi nitos.\nSon gratis.\nSon ya.\n¿Qué tal si dejamos de contar los días,\nlos minutos y las horas \ny más bien nos enfocamos \nen apreciar cada instante?",
-    "imagen": "img/N53.png"
+    "imagen": "img/N53.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N54",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Segregar",
     "texto": "Interactuamos con lo que tenemos a nuestro alcance.\nSi a nuestro alrededor \nsolo tenemos cosas que nos perjudican, \nvamos a conectar con eso \ny, por lo tanto, ser eso.\nSi por el contrario conectamos con oportunidades,\npropósitos, amor, abundancia, \nvamos a ser todo eso.\nLo que nos lleva a la trampa de la segregación.\nRechazar lo que no nos gusta \no no interactuar con quienes no piensan tan bonito, \nsolo desconecta.\nDebemos propagar buenos pensamientos.\nSobretodo a quien más lo necesita.\nDeseemos amor.\nIrradiemos felicidad.\nPensemos bonito.",
-    "imagen": "img/N54.png"
+    "imagen": "img/N54.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N55",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Reloj",
     "texto": "Un reloj sirve para dos cosas.\nTe dice que ya casi tienes que cambiar de actividad.\nY tienes que apurarte.\nO que deberías estar haciendo otra cosa. \nSe te acabó el tiempo.\nTe saca del momento.\nSugiere cambio.\nEs una herramienta útil y delicada.",
-    "imagen": "img/N55.png"
+    "imagen": "img/N55.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N56",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Mi tiempo no es tu tiempo",
     "texto": "Mi tiempo no es tu tiempo.\nYo lo experimento y tú lo experimentas.\nEs una experiencia subjetiva.\nLo inventamos para sincronizarnos, \ny siempre nos vamos a estar desincronizando \nporque nos movemos unos respecto a otros, \nnos movemos diferente.\nTiempo es lo que un reloj mide \nsegún la velocidad en que la se mueve, \nno las manecillas, sino el brazo que lo carga \no la pared donde está empotrado.\nEs relativo.\nMide lo que se demora un planeta en dar la vuelta,\ny esto depende desde dónde tú lo mires.\nSi estoy afuera o estoy adentro, \nde pronto orbitando.\nEl tiempo cambia.",
-    "imagen": "img/N56.png"
+    "imagen": "img/N56.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N57",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "El futuro ya está aquí",
     "texto": "The future is already here, its just not very \nevenly distributed. - William Gibson\nEl futuro ya está aquí, solo que no está \ndistribuido muy equitativamente.\nA cada rato me encuentro seres, ideas, iniciativas, \naparatos del futuro, veo el futuro o estoy en él. \nA veces voy al pasado también.\nEs fácil encontrar algo que no esperabamos, \nalgo que soñábamos y no pensamos factible. \nO algo lo sufi cientemente avanzado para ser magia.\nEl futuro, eso que esperamos, en algún lugar ya \nexiste. Llegar al futuro es moverse a un sitio nuevo y \nestar pendiente de eso mágico que antes no existía.",
-    "imagen": "img/N57.png"
+    "imagen": "img/N57.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N58",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Ir de afán",
     "texto": "Si vas de afán no mires el reloj.\nHacerlo es tomar una medición.\nMientras no lo hagas siempre existirá\nla posibilidad de llegar a tiempo.\nLa explicación de la mecánica cuántica \nes que, mientras no se haga una medición, \nla realidad es una función de probabilidad.\nQuiere decir que existe un número infi nito \nde posibilidades y entre ellas está llegar a tiempo.\nEn el momento en el que hago la medición esta\nfunción de probabilidad colapsa en un solo punto,\nreduciendo el espectro de posibilidades.\nMi abuelita decía: despacio que voy de afán.\nSi estoy afanado pierdo la calma y esto tiene \ndos efectos. Por un lado hace que cometa errores \ny me demoro más. Por el otro, el tiempo pasa más \nrápido. El tiempo es relativo y depende de la \nvelocidad en que me mueva y del afán que lleve.\nEntre más tranquilo esté, el tiempo pasa más\ndespacio y cometo menos errores. Si no sé qué hora\nes siempre existe la posibilidad de llegar a tiempo.",
-    "imagen": "img/N58.png"
+    "imagen": "img/N58.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N59",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Afán",
     "texto": "Sin afán puedes tomarte tu tiempo, \nsalir de la rutina, apreciar más y mejor, \nasombrarte, puedes tomar una ruta diferente, \ndarle tiempo a los problemas, \nensayar, improvisar, jugar. \nDilatas el tiempo y cometes menos errores.\nNo tener afán es un arte. Algunos consejos:\n No mires el reloj.\n Sal una hora antes, no de la hora de llegada, sino \nde la hora en que hubieras salido normalmente.\n Levántate más temprano.\n Deja la reunionitis.\n Hoy en día casi todo se puede hacer virtual.\n Calcula que todo compromiso se demora \nel doble de tiempo.\n Desaparece, o hazte invisible\n Aíslate de vez en cuando.\n Cancela todo lo que no sea fascinante\nLa vida es mejor vivirla sin afanes.",
-    "imagen": "img/N59.png"
+    "imagen": "img/N59.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N60",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Prepararse",
     "texto": "En el jardín infantil nos preparan para la primaria. \nEn la primaria para el bachillerato.\nEn el bachillerato para la universidad.\nEn la universidad para el trabajo, o un postgrado.\nEn el trabajo para otro mejor trabajo, \ny eventualmente para nuestro retiro. \nCuando llegamos al retiro estamos cansados.\n¿No sería mejor dejar de prepararnos\ny más bien vivir la vida?\nEstamos siempre pensando en el futuro,\nen que tengo que aprender las reglas de un juego, \nque en algún momento voy a jugar.\nNo entendemos que ya estamos en un juego.\nQue el momento tiene unas reglas \ny que es ahora cuando tenemos que jugar.\nPreparémonos para vivir el ahora, no el mañana.",
-    "imagen": "img/N60.png"
+    "imagen": "img/N60.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N61",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Diseñar tu día",
     "texto": "El tiempo y la atención \nson los recursos más importantes que tenemos.\nEl proceso de diseño nos sirve \npara mejorar el manejo de nuestro tiempo. \nDiseñar tu día es ir más allá que planearlo. \nRequiere ideación, ensayos, realimentación. \nIterar e iterar.\nNunca llegaremos al día perfecto, \nsi estaremos avanzando, mejorando, \ny seguramente yendo hacia algún lado.",
-    "imagen": "img/N61.png"
+    "imagen": "img/N61.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N62",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Un día",
     "texto": "Tiene 1440 minutos, \n86400 segundos.\nUn día tiene infi nito instantes, \nde los cuales dormimos\n480 minutos, \n28800 segundos, \ne infi nito instantes.\nEstoy despierto 57600 segundos, \n960 minutos,\ne infi nito instantes.\nY a veces no hacemos nada en un día.",
-    "imagen": "img/N62.png"
+    "imagen": "img/N62.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N63",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Cinco minutos",
     "texto": "Si no tienes 5 minutos no tienes vida.\nDate hoy 5 minutos. \nPon un timer y date tiempo. \n¿Para qué? Para ti.\nRepite durante una semana.\nY la siguiente semana date 10 minutos. \nAlgún día date el día. \nBusca un espacio para ti. \nSi no es fácil, fi nge una reunión y ponlo en la agenda.\nEs importante tener tiempo para uno.",
-    "imagen": "img/N63.png"
+    "imagen": "img/N63.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N64",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "El tiempo es ahora",
     "texto": "Vivimos por un tiempo.\nTrabajamos por tiempo.\nCobramos por tiempo.\nMedimos las distancias en tiempo.\nEsperamos tiempo.\nMedimos tiempo.\nAnhelamos tiempo.\nNos conectamos en el tiempo.\nAgendamos tiempo.\nNos citamos en el tiempo.\nAhorramos tiempo.\nCompramos tiempo.\nSufrimos por el tiempo.\nQueremos tiempo.\nVivimos en otro tiempo.\n¡Dejemos que el tiempo sea ahora!",
-    "imagen": "img/N64.png"
+    "imagen": "img/N64.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N65",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "El ritmo del pan",
     "texto": "El arte de hacer buen pan es cogerle el ritmo.\nHay que refrescar y re-refrescar, amasar, \narmar la lonja, hornear.\nTodo a su debido tiempo. No es una vez, es periódico.\nHacer pan todos los días tiene su ritmo; hacerlo \nsemanal tiene otro. Cuando estamos coordinados \nes fácil, todo sale bien. Cambiar el ritmo implica\nque tenemos que coordinar todo nuevamente.\nSomos Pepita Rausch (una masa madre que vive \nconmigo), bacterias y levaduras, un horno, \nrecipientes, utensilios y yo. Coordinamos tiempos \ny cantidades, cada uno tiene sus dinámicas. \nYo como a un ritmo, Pepita también.\nLos dos nos activamos según la cantidad de alimento\nque tenemos a disposición y según el clima.\nHay tandas en que estamos muy coordinados. \nY si alguno cambia la dinámica perdemos el ritmo. Toca \nentre los dos, cediendo poco a poco, volver a coordinar.\nSi ya tengo un ritmo que funciona es mejor \nno cambiarlo. Si perdimos el ritmo, toca escuchar \ny conectar.",
-    "imagen": "img/N65.png"
+    "imagen": "img/N65.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N66",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Asombrarse",
     "texto": "La capacidad de asombro es de las habilidades\nmás importantes para desarrollar.\nA medida que crecemos vamos conociendo el mundo. \nEsto hace que no encontremos muchas cosas nuevas \no inesperadas.\nUn niño se asombra, por lo general, más que un adulto \npor que tiene menos conexiones en su mente.\nEl tiempo es relativo a la capacidad de asombro.\nSi nos asombramos bastante, sentimos que hacemos\nmuchas cosas. Si no, son días donde no pasa nada.\nEl asombro se cultiva. Para asombrarse más,\ndebemos salir más seguido de nuestra burbuja,\ncontemplar, admirar, ver con otros ojos. Asombrarse\nes ver de otra manera o algo que no habíamos visto. \nEs contextualizar de manera diferente.\nAcuérdate de la última vez que te asombraste.\nSi fue hace mucho, es hora de ir a un nuevo sitio,\nde hacer algo nuevo o de jugar con tu curiosidad.\nDesarrollemos la capacidad de asombro.\n¡Sal y contempla!",
-    "imagen": "img/N66.png"
+    "imagen": "img/N66.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N67",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Mirar adentro",
     "texto": "Pasamos mucho tiempo mirando hacia afuera.\nY tal vez lo que buscamos no está afuera.\nAdentro es infi nito.\nAdentro es fractal.\nAdentro se manifi esta todo lo de afuera \ny afuera lo de adentro.\nEs bonito mirar adentro porque cambio la perspectiva.\nPorque mi mundo crece.\nSe amplifi ca.\nEntiendo que hay más mundos y que los controlo.\nQue yo soy todo.\nQue todo es uno.",
-    "imagen": "img/N67.png"
+    "imagen": "img/N67.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N68",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "¿Qué voy a hacer",
     "texto": "cuando crezca?\nEs una pregunta que no debo dejar de hacerme.\nImplica estar en constante crecimiento.\nY estar re-evaluando quién quiero ser.",
-    "imagen": "img/N68.png"
+    "imagen": "img/N68.png",
+    "lente": "Naturaleza"
   },
   {
     "id": "N69",
-    "categoria": "Naturaleza",
+    "categoria": "Tiempo",
     "titulo": "Descansar es",
     "texto": "cambiar de actividad\nCambiar de actividad ayuda a descansar.\nTener muchas cosas por hacer tiene sus ventajas: \nhaciendo un poquito acá y un poquito allá, \ny volviendo acá, descansamos.\nNo gastes mucho tiempo en una sola cosa.\nPodemos aprovechar los descansos para avanzar \nen todo lo que tengo por hacer.\nDescansar es cambiar de actividad.",
-    "imagen": "img/N69.png"
+    "imagen": "img/N69.png",
+    "lente": "Naturaleza"
   }
 ]

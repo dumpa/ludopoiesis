@@ -76,3 +76,15 @@ function compartirCarta() {
     alert("Tu navegador no permite compartir directo. Puedes copiar el texto o hacer pantallazo.");
   }
 }
+
+function toggleIdioma() {
+  idioma = document.getElementById("idiomaToggle").checked ? "pt" : "es";
+  if (cartaActual) mostrarCarta(cartaActual);
+}
+
+function setIdioma(lengua) {
+  idioma = lengua;
+  document.getElementById("idiomaToggle").checked = (lengua === "pt");
+  if (cartaActual) mostrarCarta(cartaActual);
+}
+

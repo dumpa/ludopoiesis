@@ -10,8 +10,8 @@
   {
     "id": "N02",
     "categoria": "Física",
-    "titulo": "F Í S I C A",
-    "texto": "Eres el mundo\n¿Te vas a defi nir como una víctima del mundo \no como el mundo?\nTú eres lo que haces.\nTú eres lo que te pasa.\nTú eres responsable.\nLa diferencia entre lo que nos pasa \ny lo que hacemos es un poco de ego.\nNosotros brillamos el sol.\nNosotros palpitamos nuestro corazón.\nHacemos amanecer.\nAcepta que eres el mundo.\nSé responsable de lo que te pasa.",
+    "titulo": "Eres el mundo",
+    "texto": "¿Te vas a definir como una víctima del mundo \no como el mundo?\nTú eres lo que haces.\nTú eres lo que te pasa.\nTú eres responsable.\nLa diferencia entre lo que nos pasa \ny lo que hacemos es un poco de ego.\nNosotros brillamos el sol.\nNosotros palpitamos nuestro corazón.\nHacemos amanecer.\nAcepta que eres el mundo.\nSé responsable de lo que te pasa.",
     "imagen": "img/N02.png",
     "lente": "Naturaleza"
   },
@@ -34,8 +34,8 @@
   {
     "id": "N05",
     "categoria": "Física",
-    "titulo": "Massimo",
-    "texto": "y los extraterrestres\nMassimo se comunicó con los extraterrestres. \nEllos dejaron tres mensajes:\n Existe lo que existe.\n Nada es nada.\n La vida es cara.",
+    "titulo": "Massimo y los extraterrestres",
+    "texto": "Massimo se comunicó con los extraterrestres. \nEllos dejaron tres mensajes:\n Existe lo que existe.\n Nada es nada.\n La vida es cara.",
     "imagen": "img/N05.png",
     "lente": "Naturaleza"
   },
@@ -67,7 +67,7 @@
     "id": "N09",
     "categoria": "Física",
     "titulo": "Ver la fl or",
-    "texto": "Si no paras a ver la fl or, \nno ves la araña, \nla telaraña con su rocío, \ny la magia de los pequeños detalles.",
+    "texto": "Si no paras a ver la flor, \nno ves la araña, \nla telaraña con su rocío, \ny la magia de los pequeños detalles.",
     "imagen": "img/N09.png",
     "lente": "Naturaleza"
   },
@@ -90,16 +90,16 @@
   {
     "id": "N12",
     "categoria": "Física",
-    "titulo": "Distinción:",
-    "texto": "Fuerza - Poder\nEl poder es el fi n, la fuerza es el comienzo. Poder\nes algo que ganamos. Fuerza genera movimiento.\nEl poder está relacionado con los títulos, posesiones\no propiedades que adquirimos al fi nalizar un juego.\nMientras que la fuerza se relaciona con \nhabilidades y herramientas, es lo que nos\npermite arrancar procesos. En este sentido la\nfuerza es infi nita ya que es un acto de apertura.\nY el poder es algo fi nito que solo existe cuando\nse acaba el juego, es un acto de clausura.\nEl poder está relacionado con lo que puedo hacer\ndentro de unos límites; \nla fuerza con lo que puedo hacer con los límites.\nEl poder tiene que ver con lo que ya pasó.\nFuerza con lo que va a pasar.\nSi quiero acabar, juego para ser poderoso.\nSi prefi ero seguir jugando, debo jugar con fuerza.\nEs preferible fortalecer que empoderar.\nQueremos mover, iniciar, generar cambio, \njugar juegos infi nitos.\nLas fuerzas comienzan, el poder acaba.",
+    "titulo": "Distinción: Fuerza - Poder",
+    "texto": "El poder es el fi n, la fuerza es el comienzo. Poder\nes algo que ganamos. Fuerza genera movimiento.\nEl poder está relacionado con los títulos, posesiones\no propiedades que adquirimos al fi nalizar un juego.\nMientras que la fuerza se relaciona con \nhabilidades y herramientas, es lo que nos\npermite arrancar procesos. En este sentido la\nfuerza es infi nita ya que es un acto de apertura.\nY el poder es algo fi nito que solo existe cuando\nse acaba el juego, es un acto de clausura.\nEl poder está relacionado con lo que puedo hacer\ndentro de unos límites; \nla fuerza con lo que puedo hacer con los límites.\nEl poder tiene que ver con lo que ya pasó.\nFuerza con lo que va a pasar.\nSi quiero acabar, juego para ser poderoso.\nSi prefi ero seguir jugando, debo jugar con fuerza.\nEs preferible fortalecer que empoderar.\nQueremos mover, iniciar, generar cambio, \njugar juegos infi nitos.\nLas fuerzas comienzan, el poder acaba.",
     "imagen": "img/N12.png",
     "lente": "Naturaleza"
   },
   {
     "id": "N13",
     "categoria": "Física",
-    "titulo": "Pozo de",
-    "texto": "agua helada\nUn pozo de agua helada es un llamado a la aventura.\nSaltar en él es salir de la zona de confort.\nEs entrar en el mundo de la aventura.\nEn un comienzo paraliza, \nluego todo empieza a circular.\nAparecen sensaciones, cosquillas y algo de calor.\nDifi cultad para moverse, y para hablar.\nAl salir he cambiado, superado un desafío,\ny mi cuerpo ahora es más fuerte.\nAhora soy otro, maestro de ambos mundos.\nVolver a saltar ahora es fácil.",
+    "titulo": "Pozo de agua helada",
+    "texto": "Un pozo de agua helada es un llamado a la aventura.\nSaltar en él es salir de la zona de confort.\nEs entrar en el mundo de la aventura.\nEn un comienzo paraliza, \nluego todo empieza a circular.\nAparecen sensaciones, cosquillas y algo de calor.\nDifi cultad para moverse, y para hablar.\nAl salir he cambiado, superado un desafío,\ny mi cuerpo ahora es más fuerte.\nAhora soy otro, maestro de ambos mundos.\nVolver a saltar ahora es fácil.",
     "imagen": "img/N13.png",
     "lente": "Naturaleza"
   },

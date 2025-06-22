@@ -1,7 +1,7 @@
 
 let cartas = [];
 
-fetch("cartas_naturaleza_mvp.json")
+fetch("cartas_naturaleza_mvp.json" + new Date().getTime())
   .then(response => response.json())
   .then(data => {
     cartas = data;

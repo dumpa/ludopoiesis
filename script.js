@@ -15,7 +15,7 @@ function tirarCarta() {
   const carta = cartas[Math.floor(Math.random() * cartas.length)];
   const container = document.getElementById("carta-container");
  container.innerHTML = `
-  <div class="card flipped" onclick="this.classList.toggle('flipped')">
+  <div class="card" onclick="this.classList.toggle('flipped')">
     <div class="card-inner">
       <div class="card-front">
         <img src="${carta.imagen}" alt="${carta.titulo}" style="max-width: 100%; max-height: 100%;">

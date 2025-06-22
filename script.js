@@ -1,7 +1,7 @@
 
 let cartas = [];
 
-fetch("cartas_naturaleza_mvp.json?v=" + new Date().getTime())
+fetch("cartas_naturaleza_mvp2.json?v=" + new Date().getTime())
   .then(res => res.json())
   .then(data => cartas = data)
   .catch(err => console.error("Error al cargar cartas:", err));

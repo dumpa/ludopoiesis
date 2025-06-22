@@ -13,7 +13,16 @@
 <body>
   <h1>Ludopoiesis - Naturaleza</h1>
   <button onclick="tirarCarta()">Tirar Carta</button>
-  <button onclick="cambiarIdioma()" id="boton-idioma">🇪🇸 Español</button>
+  
+  <div class="idioma-switch">
+  <span class="bandera" id="flag-es" onclick="setIdioma('es')">🇪🇸</span>
+  <label class="switch">
+    <input type="checkbox" id="idiomaToggle" onchange="toggleIdioma()">
+    <span class="slider"></span>
+  </label>
+  <span class="bandera" id="flag-pt" onclick="setIdioma('pt')">🇧🇷</span>
+</div>
+
 
   <div id="carta-container"></div>
   <script src="script.js"></script>

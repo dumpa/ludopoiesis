@@ -18,7 +18,7 @@ function tirarCarta() {
     <div class="card" onclick="this.classList.toggle('flipped')">
       <div class="card-inner">
         <div class="card-front">
-          <img src="${carta.imagen}" alt="${carta.titulo}" style="max-width: 100%; max-height: 100%;">
+          <img src="${carta.imagen}" alt="${carta.titulo}" style="max-width: 100%; max-height: 100%; object-fit: cover;">
         </div>
         <div class="card-back">
           <h2>${carta.titulo}</h2>

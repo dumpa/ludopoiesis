@@ -12,6 +12,7 @@ function tirarCarta() {
     return;
   }
   const carta = cartas[Math.floor(Math.random() * cartas.length)];
+  window.cartaActual = carta; 
   const container = document.getElementById("carta-container");
   container.innerHTML = `
     <div class="card" onclick="this.classList.toggle('flipped')">

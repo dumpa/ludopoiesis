@@ -67,7 +67,8 @@ button:hover {
 }
 
 .card-front {
-  background: #e0ebe9;
+  background: none;
+  padding: 0;
   font-size: 1.5rem;
   font-weight: 600;
   color: rgb(0, 67, 73);

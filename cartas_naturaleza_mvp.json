@@ -1,0 +1,23 @@
+[
+  {
+    "id": "N01",
+    "categoria": "Naturaleza",
+    "titulo": "Semilla",
+    "texto": "Una semilla no es un árbol.\nTampoco es sólo una promesa.\nEs una posibilidad real.\nPequeña, pero poderosa.\nTiene en sí todo lo que necesita para crecer.\nSolo necesita el entorno adecuado.",
+    "imagen": "N01_semilla.png"
+  },
+  {
+    "id": "N02",
+    "categoria": "Naturaleza",
+    "titulo": "Hojas",
+    "texto": "Las hojas saben cuándo caer.\nNo preguntan si es momento.\nNo consultan al árbol.\nSimplemente se sueltan.\nA veces lo más sabio es dejarse ir.",
+    "imagen": "N02_hojas.png"
+  },
+  {
+    "id": "N03",
+    "categoria": "Naturaleza",
+    "titulo": "Raíces",
+    "texto": "Las raíces no se ven,\npero son las que sostienen todo.\nNo buscan atención.\nSaben que su fuerza está en lo invisible.\nCultiva raíces profundas\nsi quieres crecer alto.",
+    "imagen": "N03_raices.png"
+  }
+]

@@ -85,6 +85,11 @@ function toggleIdioma() {
 function setIdioma(lengua) {
   idioma = lengua;
   document.getElementById("idiomaToggle").checked = (lengua === "pt");
-  if (cartaActual) mostrarCarta(cartaActual);
+
+  // Solo muestra la carta si ya se ha tirado una
+  if (cartaActual) {
+    mostrarCarta(cartaActual);
+  }
 }
+
 

@@ -33,7 +33,7 @@ button:hover {
 
 .card {
   width: 340px;
-  height: 480px;
+  height: 500px;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 0.8s;
@@ -78,6 +78,7 @@ button:hover {
   color: rgb(0, 67, 73);
   transform: rotateY(180deg);
   flex-direction: column;
+  overflow: hidden;
 }
 
 .card-back h2 {
@@ -87,9 +88,9 @@ button:hover {
 
 .card-back p {
   font-size: 1rem;
-  line-height: 1.6;
+  line-height: 1.5;
   white-space: pre-line;
-  overflow-y: auto;
   max-height: 340px;
+  overflow-y: auto;
   padding-right: 4px;
 }

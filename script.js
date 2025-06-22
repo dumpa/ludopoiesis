@@ -1,5 +1,6 @@
 let cartas = [];
 let idioma = "es"; // idioma actual: "es" o "pt"
+let imagen = idioma === "es" ? carta.imagen : (carta.imagen_pt || carta.imagen);
 let cartaActual = null;
 
 fetch("cartas_naturaleza_es_pt2.json?v=" + new Date().getTime())

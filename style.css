@@ -153,6 +153,8 @@ button:hover {
 input:checked + .slider {
   background-color: #888; /* gris suave o color del tema */
 }
-
+input:checked + .slider:before {
+  background-color: #888; /* gris suave o color del tema */
+}
 
 

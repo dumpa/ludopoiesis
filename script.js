@@ -28,6 +28,21 @@ function tirarCarta() {
     </div>
   `;
 }
+function descargarImagenCarta() {
+  const carta = document.querySelector(".card");
+  if (!carta) {
+    alert("Tira una carta primero.");
+    return;
+  }
+
+  html2canvas(carta, { backgroundColor: null }).then(canvas => {
+    // Crear un enlace para descargar
+    const link = document.createElement("a");
+    link.download = `ludopoiesis_${Date.now()}.png`;
+    link.href = canvas.toDataURL("image/png");
+    link.click();
+  });
+}
 
 function compartirCarta() {
   if (!window.cartaActual) {

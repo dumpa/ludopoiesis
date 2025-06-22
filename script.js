@@ -9,7 +9,8 @@ fetch("cartas_naturaleza_mvp2.json?v=" + new Date().getTime())
   .catch(err => console.error("Error al cargar cartas:", err));
 
 function tirarCarta() {
-  if (!cartas.length) return;
+  alert("Las cartas aún no se han cargado. Intenta de nuevo en unos segundos.");
+    return;
   const carta = cartas[Math.floor(Math.random() * cartas.length)];
   window.cartaActual = carta;
   mostrarCarta(carta);

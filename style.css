@@ -33,7 +33,7 @@ button:hover {
 
 .card {
   width: 340px;
-  min-height: 500px;
+  min-height: 520px;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 0.8s;
@@ -55,12 +55,11 @@ button:hover {
 
 .card-front, .card-back {
   width: 100%;
-  min-height: 500px;
+  min-height: 520px;
   position: absolute;
   backface-visibility: hidden;
-  overflow: hidden;
   border-radius: 12px;
-  padding: 1.2rem;
+  padding: 0;
   box-sizing: border-box;
   display: flex;
   align-items: center;
@@ -68,13 +67,8 @@ button:hover {
 }
 
 .card-front {
-  background: none;
-  padding: 0;
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: rgb(0, 67, 73);
+  background: white;
   overflow: hidden;
-  border-radius: 12px;
 }
 
 .card-front img {
@@ -89,16 +83,20 @@ button:hover {
   color: rgb(0, 67, 73);
   transform: rotateY(180deg);
   flex-direction: column;
-  height: auto;
+  padding: 1.8rem 1.2rem;
+  align-items: flex-start;
+  text-align: left;
+  font-weight: 400;
 }
 
 .card-back h2 {
-  font-size: 1.3rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.4rem; /* AproximaciÃ³n a 19pt */
+  font-weight: 600;
+  margin-bottom: 1rem;
 }
 
 .card-back p {
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 0.75rem; /* AproximaciÃ³n a 9pt */
+  line-height: 1.6;
   white-space: pre-line;
 }

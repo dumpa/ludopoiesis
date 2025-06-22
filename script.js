@@ -2,10 +2,9 @@
 let cartas = [];
 
 fetch("cartas_naturaleza_mvp.json?v=" + new Date().getTime())
-  .then(response => response.json())
-  .then(data => {
-    cartas = data;
-  });
+  .then(res => res.json())
+  .then(data => cartas = data)
+  .catch(err => console.error("Error al cargar cartas:", err));
 
 function tirarCarta() {
   if (!cartas.length) {

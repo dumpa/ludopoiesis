@@ -130,31 +130,33 @@ button:hover {
 .slider {
   position: absolute;
   cursor: pointer;
-  background-color: #ccc;
-  border-radius: 34px;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  transition: .4s;
+  background-color: #ddd; /* color base neutro */
+  transition: 0.4s;
+  border-radius: 34px;
 }
 
 .slider:before {
-  content: "";
   position: absolute;
+  content: "";
   height: 22px;
   width: 22px;
   left: 3px;
   bottom: 3px;
-  background-color: white;
+  background-color: #fff; /* bolita blanca */
+  transition: 0.4s;
   border-radius: 50%;
-  transition: .4s;
 }
+
+/* No cambia de color al activarse */
 input:checked + .slider {
-  background-color: #888; /* gris suave o color del tema */
+  background-color: #ddd;
 }
+
 input:checked + .slider:before {
-  background-color: #888; /* gris suave o color del tema */
+  transform: translateX(22px);
+  background-color: #fff;
 }
-
-

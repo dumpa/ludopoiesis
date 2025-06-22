@@ -1,5 +1,7 @@
 
 let cartas = [];
+let idioma = "es"; // idioma actual: "es" o "pt"
+
 
 fetch("cartas_naturaleza_mvp2.json?v=" + new Date().getTime())
   .then(res => res.json())
@@ -7,10 +9,12 @@ fetch("cartas_naturaleza_mvp2.json?v=" + new Date().getTime())
   .catch(err => console.error("Error al cargar cartas:", err));
 
 function tirarCarta() {
-  if (!cartas.length) {
-    alert("Las cartas aún no se han cargado. Intenta de nuevo en unos segundos.");
-    return;
-  }
+  if (!cartas.length) return;
+  const carta = cartas[Math.floor(Math.random() * cartas.length)];
+  window.cartaActual = carta;
+  mostrarCarta(carta);
+}
+
   const carta = cartas[Math.floor(Math.random() * cartas.length)];
   window.cartaActual = carta; 
   const container = document.getElementById("carta-container");
@@ -28,6 +32,32 @@ function tirarCarta() {
     </div>
   `;
 }
+function cambiarIdioma() {
+  idioma = idioma === "es" ? "pt" : "es";
+  document.getElementById("boton-idioma").innerText = idioma === "es" ? "🇪🇸 Español" : "🇧🇷 Português";
+  if (window.cartaActual) {
+    mostrarCarta(window.cartaActual); // recarga carta con nuevo idioma
+  }
+}
+function mostrarCarta(carta) {
+  const container = document.getElementById("carta-container");
+  const titulo = idioma === "es" ? carta.titulo : carta.titulo_pt;
+  const texto = idioma === "es" ? carta.texto : carta.texto_pt;
+
+  container.innerHTML = `
+    <div class="card" onclick="this.classList.toggle('flipped')">
+      <div class="card-inner">
+        <div class="card-front">
+          <img src="${carta.imagen}" alt="${titulo}">
+        </div>
+        <div class="card-back">
+          <h2>${titulo}</h2>
+          <p>${texto.replace(/\\n/g, "<br>")}</p>
+        </div>
+      </div>
+    </div>`;
+}
+
 function descargarImagenCarta() {
   const carta = document.querySelector(".card");
   if (!carta) {

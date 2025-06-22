@@ -22,6 +22,7 @@ function mostrarCarta(carta) {
   const container = document.getElementById("carta-container");
   const titulo = idioma === "es" ? carta.titulo : carta.titulo_pt;
   const texto = idioma === "es" ? carta.texto : carta.texto_pt;
+  const imagen = idioma === "es" ? carta.imagen : carta.imagen_pt;
 
   container.innerHTML = `
     <div class="card" onclick="this.classList.toggle('flipped')">

@@ -27,3 +27,22 @@ function tirarCarta() {
     </div>
   `;
 }
+
+function compartirCarta() {
+  if (!window.cartaActual) {
+    alert("Tira una carta primero.");
+    return;
+  }
+
+  const mensaje = `🃏 Ludopoiesis\n“${cartaActual.titulo}”\n\n${cartaActual.texto}\n\n👉 https://dumpa.github.io/ludopoiesis`;
+
+  if (navigator.share) {
+    navigator.share({
+      title: 'Ludopoiesis',
+      text: mensaje,
+      url: 'https://dumpa.github.io/ludopoiesis'
+    }).catch(err => console.error('Error al compartir', err));
+  } else {
+    alert("Tu navegador no permite compartir directo. Puedes copiar el texto o hacer pantallazo.");
+  }
+}

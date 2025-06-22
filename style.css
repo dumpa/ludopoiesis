@@ -10,9 +10,10 @@ body {
 }
 
 button {
-  padding: 0.5rem 1rem;
-  font-size: 1.2rem;
-  margin-bottom: 2rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 1.1rem;
+  margin: 1rem auto 2rem;
+  display: block;
   background-color: rgb(0, 67, 73);
   color: white;
   border: none;
@@ -26,17 +27,18 @@ button:hover {
 
 #carta-container {
   perspective: 1000px;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
 }
 
 .card {
-  width: 300px;
-  height: 400px;
-  margin: auto;
+  width: 340px;
+  height: 480px;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 0.8s;
   cursor: pointer;
+  margin: auto;
 }
 
 .card-inner {
@@ -57,11 +59,11 @@ button:hover {
   position: absolute;
   backface-visibility: hidden;
   border-radius: 12px;
+  padding: 1.2rem;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 1rem;
-  box-sizing: border-box;
 }
 
 .card-front {
@@ -75,17 +77,19 @@ button:hover {
   background: white;
   color: rgb(0, 67, 73);
   transform: rotateY(180deg);
-  overflow-y: auto;
   flex-direction: column;
 }
 
 .card-back h2 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin-bottom: 0.5rem;
 }
 
 .card-back p {
   font-size: 1rem;
-  line-height: 1.5;
+  line-height: 1.6;
   white-space: pre-line;
+  overflow-y: auto;
+  max-height: 340px;
+  padding-right: 4px;
 }

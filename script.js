@@ -14,17 +14,17 @@ function tirarCarta() {
   }
   const carta = cartas[Math.floor(Math.random() * cartas.length)];
   const container = document.getElementById("carta-container");
- container.innerHTML = `
-  <div class="card" onclick="this.classList.toggle('flipped')">
-    <div class="card-inner">
-      <div class="card-front">
-        <img src="${carta.imagen}" alt="${carta.titulo}" style="max-width: 100%; max-height: 100%;">
-      </div>
-      <div class="card-back">
-        <h2>${carta.titulo}</h2>
-        <p>${carta.texto.replace(/\\n/g, "<br>")}</p>
+  container.innerHTML = `
+    <div class="card" onclick="this.classList.toggle('flipped')">
+      <div class="card-inner">
+        <div class="card-front">
+          <img src="${carta.imagen}" alt="${carta.titulo}" style="max-width: 100%; max-height: 100%;">
+        </div>
+        <div class="card-back">
+          <h2>${carta.titulo}</h2>
+          <p>${carta.texto.replace(/\\n/g, "<br>")}</p>
+        </div>
       </div>
     </div>
-  </div>
-`;
+  `;
 }

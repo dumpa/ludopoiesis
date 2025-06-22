@@ -1,6 +1,6 @@
-
 let cartas = [];
-let idioma = "es";
+let idioma = "es"; // idioma actual: "es" o "pt"
+let cartaActual = null;
 
 fetch("cartas_naturaleza_mvp2.json?v=" + new Date().getTime())
   .then(res => res.json())
@@ -14,17 +14,10 @@ function tirarCarta() {
   }
 
   const carta = cartas[Math.floor(Math.random() * cartas.length)];
-  window.cartaActual = carta;
+  cartaActual = carta;
   mostrarCarta(carta);
 }
 
-function cambiarIdioma() {
-  idioma = idioma === "es" ? "pt" : "es";
-  document.getElementById("boton-idioma").innerText = idioma === "es" ? "🇪🇸 Español" : "🇧🇷 Português";
-  if (window.cartaActual) {
-    mostrarCarta(window.cartaActual); // recarga carta con nuevo idioma
-  }
-}
 function mostrarCarta(carta) {
   const container = document.getElementById("carta-container");
   const titulo = idioma === "es" ? carta.titulo : carta.titulo_pt;
@@ -34,7 +27,7 @@ function mostrarCarta(carta) {
     <div class="card" onclick="this.classList.toggle('flipped')">
       <div class="card-inner">
         <div class="card-front">
-          <img src="${carta.imagen}" alt="${titulo}">
+          <img src="${carta.imagen}" alt="${titulo}" style="max-width: 100%; max-height: 100%; object-fit: cover;">
         </div>
         <div class="card-back">
           <h2>${titulo}</h2>
@@ -42,6 +35,12 @@ function mostrarCarta(carta) {
         </div>
       </div>
     </div>`;
+}
+
+function cambiarIdioma() {
+  idioma = idioma === "es" ? "pt" : "es";
+  document.getElementById("boton-idioma").innerText = idioma === "es" ? "🇪🇸 Español" : "🇧🇷 Português";
+  if (cartaActual) mostrarCarta(cartaActual);
 }
 
 function descargarImagenCarta() {
@@ -52,7 +51,6 @@ function descargarImagenCarta() {
   }
 
   html2canvas(carta, { backgroundColor: null }).then(canvas => {
-    // Crear un enlace para descargar
     const link = document.createElement("a");
     link.download = `ludopoiesis_${Date.now()}.png`;
     link.href = canvas.toDataURL("image/png");
@@ -61,12 +59,12 @@ function descargarImagenCarta() {
 }
 
 function compartirCarta() {
-  if (!window.cartaActual) {
+  if (!cartaActual) {
     alert("Tira una carta primero.");
     return;
   }
 
-  const mensaje = `🃏 Ludopoiesis\n“${cartaActual.titulo}”\n\n${cartaActual.texto}\n\n👉 https://dumpa.github.io/ludopoiesis`;
+  const mensaje = `🃏 Ludopoiesis\n“${idioma === "es" ? cartaActual.titulo : cartaActual.titulo_pt}”\n\n${idioma === "es" ? cartaActual.texto : cartaActual.texto_pt}\n\n👉 https://dumpa.github.io/ludopoiesis`;
 
   if (navigator.share) {
     navigator.share({

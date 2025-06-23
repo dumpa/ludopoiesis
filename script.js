@@ -25,6 +25,9 @@ function mostrarCarta(carta) {
   const texto = idioma === "es" ? carta.texto : carta.texto_pt;
   const imagen = idioma === "es" ? carta.imagen : carta.imagen_pt;
 
+  const estabaVolteada = document.querySelector(".card")?.classList.contains("flipped");
+
+
   container.innerHTML = `
     <div class="card" onclick="this.classList.toggle('flipped')">
       <div class="card-inner">
